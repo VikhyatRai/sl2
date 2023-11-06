@@ -1,0 +1,4 @@
+whois facebook.com
+dig instagram.com
+traceroute amazon.com
+nslookup geeksforgeeks.com
